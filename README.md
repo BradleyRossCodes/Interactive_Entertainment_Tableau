@@ -1,4 +1,5 @@
-A Tableau project reviewing Video Game Sales in 2015.
+# Video_Games_Tableau
+## A Tableau project reviewing Video Game Sales in 2015.
 
 Data highlighting major releases across video game releases across genre and publishers in 2015. The project was the conclusion of two related projects (links below). 
 
