@@ -1,7 +1,7 @@
 # Interactive_Entertainment_Tableau
 ## A Tableau project reviewing Video Game Sales in 2015.
 
-Data highlighting major releases across video game releases across genres and publishers in 2015. The project was the conclusion of two related projects (links below). 
+Data highlighting major releases across genres and publishers in 2015. The project was the conclusion of two related projects (links below). 
 
 Click Link to Dashboard: https://public.tableau.com/app/profile/bradley.ross4451/viz/VideoGameSales2015_16869513475150/Dashboard1?publish=yes
 
